@@ -1,4 +1,4 @@
-package Framework;
+package DataDrivenTesting;
 
 import java.io.IOException;
 import java.util.ArrayList;
